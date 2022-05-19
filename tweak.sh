@@ -108,7 +108,7 @@ echo 'user_pref("privacy.usercontext.about_newtab_segregation.enabled", true);' 
 echo 'user_pref("security.ssl.disable_session_identifiers", true);' >> prefs.js
 echo 'user_pref("services.sync.prefs.sync.browser.newtabpage.activity-stream.showSponsoredTopSite", false);' >> prefs.js
 echo 'user_pref("signon.autofillForms", false);' >> prefs.js
-echo 'user_pref("browser.formfill.enable", false)
+echo 'user_pref("browser.formfill.enable", false);' >> prefs.js
 echo 'user_pref("toolkit.telemetry.archive.enabled", false);' >> prefs.js
 echo 'user_pref("toolkit.telemetry.bhrPing.enabled", false);' >> prefs.js
 echo 'user_pref("toolkit.telemetry.cachedClientID", "");' >> prefs.js
