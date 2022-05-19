@@ -149,5 +149,6 @@ wget https://github.com/CYB3R-G0D/Firefox-privacy-tweaks/raw/main/extensions/htt
 wget https://github.com/CYB3R-G0D/Firefox-privacy-tweaks/raw/main/extensions/jid1-MnnxcxisBPnSXQ%40jetpack.xpi
 wget https://github.com/CYB3R-G0D/Firefox-privacy-tweaks/raw/main/extensions/uBlock0%40raymondhill.net.xpi
 wget https://github.com/CYB3R-G0D/Firefox-privacy-tweaks/raw/main/extensions/%7B74145f27-f039-47ce-a470-a662b129930a%7D.xpi
+wget https://github.com/CYB3R-G0D/Firefox-privacy-tweaks/raw/main/extensions/duckduckgo_privacy_essentials-2022.4.26-fx.xpi
 
 echo $'\e[1;31m'Script by https://github.com/CYB3R-G0D/$'\e[m'
