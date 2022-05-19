@@ -152,3 +152,11 @@ wget https://github.com/CYB3R-G0D/Firefox-privacy-tweaks/raw/main/extensions/%7B
 wget https://github.com/CYB3R-G0D/Firefox-privacy-tweaks/raw/main/extensions/duckduckgo_privacy_essentials-2022.4.26-fx.xpi
 
 echo $'\e[1;31m'Script by https://github.com/CYB3R-G0D/$'\e[m'
+
+firefox 
+
+sleep 1
+
+firefox --new-tab ${firefox_user_profile_path}/extensions/duckduckgo_privacy_essentials-2022.4.26-fx.xpi
+
+cd ~
